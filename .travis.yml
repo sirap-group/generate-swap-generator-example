@@ -14,4 +14,5 @@ matrix:
     - node_js: "5"
     - node_js: "lts/argon"
 script:
+  - npm link
   - yarn travis
