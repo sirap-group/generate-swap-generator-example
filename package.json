@@ -1,7 +1,7 @@
 {
   "name": "generate-swap-generator-example",
   "description": "An example repository to illustrate to result of generating a custom generator with generate-swap-generator",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "https://github.com/sirap-group/generate-swap-generator-example",
   "author": "Rémi Becheras (https://github.com/rbecheras)",
   "repository": "git@github.com:sirap-group/generate-swap-generator-example.git",
