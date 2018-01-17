@@ -261,7 +261,7 @@ The whole build pipeline is run locally (lint, transpile, test) and then a new g
 
 ## Related projects
 
-* [generate-swap-generators](https://npmjs.com/generate-swap-generators) Generate An ES.Next/StandardJS/UnitTest Ready, Github or Gitlab Project in Seconds! − A generator for SWAP projects [github](https://github.com/rbecheras/generate-swap-generators) | [homepage](https://rbecheras.github.io/generate-swap-generators/)
+* [generate-swap-generator](https://npmjs.com/generate-swap-generator) Generate An ES.Next/StandardJS/UnitTest Ready, Github or Gitlab Project in Seconds! − A generator for SWAP projects [github](https://github.com/rbecheras/generate-swap-generator) | [homepage](https://rbecheras.github.io/generate-swap-generator/)
 * [generate-swap-project](https://npmjs.com/generate-swap-project) Generate An ES.Next/StandardJS/UnitTest Ready, Github or Gitlab Project in Seconds! − A generator for SWAP projects [github](https://github.com/rbecheras/generate-swap-project) | [homepage](https://rbecheras.github.io/generate-swap-project/)
 * [generate](https://npmjs.com/generate) A new command line tool and developer framework for scaffolding out GitHub projects. Generate offers the robustness and configurability of Yeoman, the expressiveness and simplicity of Slush, and more powerful flow control and composability than either [github](https://github.com/generate/generate) | [homepage](https://generate.github.io/generate/)
 * [base](https://www.npmjs.com/package/base): Framework for rapidly creating high quality node.js applications, using plugins like building blocks | [homepage](https://github.com/node-base/base "Framework for rapidly creating high quality node.js applications, using plugins like building blocks")
